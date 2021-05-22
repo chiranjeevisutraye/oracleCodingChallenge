@@ -49,4 +49,6 @@ Using one of the following programming languages - JAVA/JAVA8, write code that t
   The list of unique customerId for each geozone."
   
   
+  
+  **Solution:**
   This problem was resovled using command design pattern, rest of the details available in the code in the form of comments.
