@@ -1,6 +1,6 @@
-Oracle Coding Challenge
+**Oracle Coding Challenge**
 
-Problem Statement:
+**Problem Statement:**
 
  "Given a string with the following data (it includes multiple lines):
 
